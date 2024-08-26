@@ -9,7 +9,8 @@
     "start": "yarn dev & yarn watch"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "express-validator": "^7.2.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
